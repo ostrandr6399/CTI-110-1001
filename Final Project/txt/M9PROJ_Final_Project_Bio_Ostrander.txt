@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<html lang = "en">
+<body><title>Richard K. Ostrander, Works</title>
+<neta charset = "utf-8">
+<head>
+
+<style>
+body {
+	background-color:palegoldenrod
+}
+</style>
+</head>
+
+<nav>
+<b>
+<a href = "index.html">Home</a> &nbsp
+<a href = "Menu.html">Menu</a> &nbsp
+<a href = "Bio.html">Bio</a> &nbsp
+<a href = "Written Works">WrittenWorks</a> &nbsp
+<a href = "Readings">Readings</a> &nbsp
+<a href = "Contact">Contact</a> &nbsp
+</b>
+</nav>
+
+<body>
+</body>
+</html>
